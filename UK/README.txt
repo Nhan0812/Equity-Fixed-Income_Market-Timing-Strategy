@@ -1,6 +1,15 @@
 UK 10Y Bond
 https://fred.stlouisfed.org/series/IRLTLT01GBM156N
 
+UK 1M Bond
+https://www.investing.com/rates-bonds/uk-1-month-bond-yield-historical-data
+
+Maximum Drawdown
+https://www.youtube.com/watch?v=m0TsNW7tWxI&ab_channel=BrainyFinance
+
+
+Compare Rate UK Bond
+http://www.worldgovernmentbonds.com/bond-historical-data/united-kingdom/1-month/#:~:text=The%20United%20Kingdom%201%20Month,%3A23%20GMT%2B0).
 
 
 To calculate the annualized arithmetic mean rates of return excess of cash based on quarterly data, you can follow these steps:
