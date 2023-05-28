@@ -75,4 +75,4 @@ Quarter 2: 5%
 Quarter 3: 3.5%
 Quarter 4: 4.5%
 
-Once you have these quarterly rates of return, you can proceed with calculating the annualized arithmetic mean return excess of cash using the steps outlined in the previous response.# EFI_Lecture
+Once you have these quarterly rates of return, you can proceed with calculating the annualized arithmetic mean return excess of cash using the steps outlined in the previous response.
